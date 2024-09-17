@@ -1,0 +1,5 @@
+C:\Users\aluno\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Form1.resources
+C:\Users\aluno\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Properties.Resources.resources
+C:\Users\aluno\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.csproj.CoreCompileInputs.cache
